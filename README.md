@@ -1,6 +1,8 @@
 
 # Data Analysis Report from Power BI
 
+![excel-to-powerbi-animated-diagram](images/PowerBIMicrosoftLogoVector_VectorSeek.jpg)
+
 ## **1. Objective**
 **What is the main goal?**
 The goal of this analysis is to evaluate the sales, quantity, and profitability performance of Plant Co. for 2023, comparing it with the previous year (PYTD). The objective is to understand performance impacts across different countries and products to optimize future strategies.
